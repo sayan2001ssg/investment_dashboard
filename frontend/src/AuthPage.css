@@ -1,0 +1,15 @@
+/* AuthPage.css */
+
+.auth-page-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #fbf0e2;
+  }
+
+  .auth-form-container {
+    display: flex;
+    margin: 0 10px; 
+  }
+ 
